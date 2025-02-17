@@ -1,5 +1,9 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## ⚙ Configurando o projeto Frontend de forma independente (Opcional)
+Como o servidor renderiza o front automaticamente, não é necessário rodar especificamente o seu projeto frontend, mas para fins do desafio, vou explicar o que fazer para rodar o projeto front de forma independente:
+- O processo é extremamente parecido com o utilizado no back;
+- Abra a pasta **frontend** em sua IDE;
+- No terminal da IDE, rode o comando: `npm instal`;
+- Após terminar de executar, insira o comando `npm run dev`;
+- Agora o front está configurado, e rodando, para acessa-lo:
+  - Acesse a rota exibida no terminal, provavelmente deve ser a: http://localhost:5173;
+- E pronto, front rodando de forma independente!

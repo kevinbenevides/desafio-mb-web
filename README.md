@@ -16,7 +16,7 @@ Este projeto consiste em um **frontend Vue.js** sendo renderizado por um servido
 Vamos configurar o projeto/servidor? Basta seguir o passo a passo descrito a baixo: 
 - Faça um clone do projeto em sua máquina, após realiza-lo, abra a pasta do projeto;
 - Em seguida abra a pasta **backend** em sua IDE(Por exemplo: Visual Studio Code);
-- No terminal da IDE, rode o comando: `npm instal`;
+- No terminal da IDE, rode o comando: `npm install`;
 - Após terminar de executar, insira o comando `node server.js` ou `npm run dev` (fica a seu critério).
 - Projeto configurado, e servidor rodando, agora vamos acessar o projeto:
   - Acesse a rota configurada: http://localhost:3001;
@@ -30,7 +30,7 @@ Vamos configurar o projeto/servidor? Basta seguir o passo a passo descrito a bai
 Como o servidor renderiza o front automaticamente, não é necessário rodar especificamente o seu projeto frontend, mas para fins do desafio, vou explicar o que fazer para rodar o projeto front de forma independente:
 - O processo é extremamente parecido com o utilizado no back;
 - Abra a pasta **frontend** em sua IDE;
-- No terminal da IDE, rode o comando: `npm instal`;
+- No terminal da IDE, rode o comando: `npm install`;
 - Após terminar de executar, insira o comando `npm run dev`;
 - Agora o front está configurado, e rodando, para acessa-lo:
   - Acesse a rota exibida no terminal, provavelmente deve ser a: http://localhost:5173;
